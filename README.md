@@ -1,4 +1,4 @@
-# Calculadora-de-preços-de-imóveis
+# Calculadora de preços de imóveis
 
 # Objetivo
 - Criar um site 100% criado em Python que calcule os preços de imóveis com exatidão, implementando algoritmos de aprendizado de máquina nele.
