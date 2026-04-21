@@ -1,32 +1,34 @@
 
-// Interface do sistema
+    // Interface do sistema 
 
 
 
 
-class BarraDePesquisa:
+    class BarraDePesquisa:  
 
 
 
 
-def __init__ (self):
+    def __init__ (self):
 
-self.altura = 3 cm
+    self.cor = preto    
 
-self.largura = 5 cm
+    self.altura = 3 cm  
 
-self.comprimento = 5 cm
+    self.largura = 5 cm 
+
+    self.comprimento = 5 cm 
 
 
 
 
-def pesquisar (self):
+    def pesquisar (self):   
 
-self.print("Digite aqui")
+    self.print("Digite aqui")   
 
-barra_de_pesquisa = BarraDePesquisa
+    barra_de_pesquisa = BarraDePesquisa 
 
-print(barra_de_pesquisa.pesquisar)
+    print(barra_de_pesquisa.pesquisar)  
 
 
 
