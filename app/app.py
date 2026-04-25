@@ -7,28 +7,26 @@
     class BarraDePesquisa:  
 
 
-
-
     def __init__(self):
 
-    self.cor = preto    
+        self.cor = preto    
 
-    self.altura = 3 cm  
+        self.altura = 3 cm  
 
-    self.largura = 5 cm 
+        self.largura = 5 cm 
 
-    self.comprimento = 5 cm 
+        self.comprimento = 5 cm 
 
 
 
 
     def pesquisar(self):   
 
-    self.print("Digite aqui")   
+        self.print("Digite aqui")   
 
-    barra_de_pesquisa = BarraDePesquisa 
+        barra_de_pesquisa = BarraDePesquisa 
 
-    print(barra_de_pesquisa.pesquisar)  
+        print(barra_de_pesquisa.pesquisar)  
 
 
 
