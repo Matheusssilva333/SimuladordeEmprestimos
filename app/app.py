@@ -1,8 +1,10 @@
+"""Módulo para barra de pesquisa."""
+
+
 class BarraDePesquisa:
+    """Classe que representa uma barra de pesquisa."""
 
-
-
-   def __init__(self):
+    def __init__(self):
 
         self.cor = 0x000
 
@@ -12,16 +14,8 @@ class BarraDePesquisa:
 
         self.comprimento = 5
 
-
-
-
-def pesquisar(self):
-
-        self.print("Digite aqui")
-
         barra_de_pesquisa = BarraDePesquisa()
 
-        print(barra_de_pesquisa.pesquisar)()
+        print("Digite aqui")
 
-
-
+        print(barra_de_pesquisa)()
