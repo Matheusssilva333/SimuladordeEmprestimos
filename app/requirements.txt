@@ -1,5 +1,0 @@
-numpy
-pandas
-tkinter
-flask
-agno
