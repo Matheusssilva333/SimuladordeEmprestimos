@@ -19,7 +19,7 @@ def pesquisar(self):
 
         self.print("Digite aqui")
 
-        barra_de_pesquisa = BarraDePesquisa
+        barra_de_pesquisa = BarraDePesquisa()
 
         print(barra_de_pesquisa.pesquisar)
 
