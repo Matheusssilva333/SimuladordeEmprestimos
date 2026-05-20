@@ -21,7 +21,7 @@ def pesquisar(self):
 
         barra_de_pesquisa = BarraDePesquisa()
 
-        print(barra_de_pesquisa.pesquisar)
+        print(barra_de_pesquisa.pesquisar)()
 
 
 
