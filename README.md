@@ -9,9 +9,4 @@
   - Python
   - Pandas
   - Numpy
-  - Tkinter
   - Agno
- 
-
-  
-
