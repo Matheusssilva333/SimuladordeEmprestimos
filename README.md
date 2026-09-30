@@ -5,7 +5,7 @@
 
   # Tecnologias a serem utilizadas
   - Javascript
-  - Next.js
+  - Angular CLI
   - Python
   - Pandas
   - Numpy
